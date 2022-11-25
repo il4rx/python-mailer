@@ -9,11 +9,11 @@ then removve the text while include the following text : `Fore, Back, Style`.
 before you download the library, you should download python on your desktop, you should go to [Python Download](https://www.python.org/downloads/) to download. after you have download python, you will go to setup `pip`. pip stands for "preferred installer program". after you installed PIP, you should download
 this all library. For the free documentation : [Python MIMEBase Documentation](https://docs.python.org/3/library/email.mime.html),
 
-**colorama :** To download colorama, you should type [in python prompt] `pip install colorama`. this will download automaticaly <br>
-**pyfiglet :** To download pyfiglet, you should type [in python prompt] `pip install pyfiglet`. this will download automaticaly <br>
-**platform :** To download platform, you should type [in python prompt] `pip install platform`. this will download automaticaly <br>
+**colorama :** To download colorama, you should type [in python prompt] `pip install colorama`. this will download automatically <br>
+**pyfiglet :** To download pyfiglet, you should type [in python prompt] `pip install pyfiglet`. this will download automatically <br>
+**platform :** To download platform, you should type [in python prompt] `pip install platform`. this will download automatically <br>
 <br>
-`smtp` is automaticaly downloaded when you download python, but to activated the smtp server you need to use the following command
+`smtp` is automatically downloaded when you download python, but to activated the smtp server you need to use the following command
 ```py
 $ python -m smtpd -c DebuggingServer -n localhost:1025
 ```
